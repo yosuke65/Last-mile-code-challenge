@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Last Mile Code Challenge(RxJava+Retrofit+MVVM)"
